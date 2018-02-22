@@ -1,0 +1,17 @@
+[19-Jun-2015 14:05:13 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[19-Jun-2015 14:32:59 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[19-Jun-2015 16:46:17 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[19-Jun-2015 19:33:11 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[19-Jun-2015 22:05:13 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 00:20:42 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 00:20:42 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 00:40:45 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 00:48:23 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 02:55:41 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 04:15:09 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 05:14:16 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 07:53:29 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 08:25:25 Europe/Moscow] PHP Warning:  mysql_connect(): Connection refused in /home/epalmnet/public_html/db_connect.php on line 10
+[20-Jun-2015 08:41:03 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 10:33:35 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
+[20-Jun-2015 16:09:57 Europe/Moscow] PHP Warning:  Invalid argument supplied for foreach() in /home/epalmnet/public_html/quizz_engine.php on line 739
